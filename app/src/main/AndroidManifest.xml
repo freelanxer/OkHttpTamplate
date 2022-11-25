@@ -20,6 +20,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OkHttpTemplate"
         tools:targetApi="31">
+
+        <!--    Activity    -->
+        <activity
+            android:name=".activity.GetUserListActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+
         <activity
             android:name=".activity.MainActivity"
             android:exported="true">

@@ -3,6 +3,11 @@
     <string name="app_description">This is OkHttp template</string>
     <string name="api_service_url">https://mock.apifox.cn/m1/1769005-0-default/</string>
 
-    <string name="call_api_btn">Call API</string>
+    <string name="sample_get_user_list">Sample: Get User List</string>
+
+    <!--  GetUserListActivity  -->
+    <string name="get_user_list_btn">Get User List</string>
+    <string name="user_id_param">User ID: %s</string>
+    <string name="user_name_param">User Name: %s</string>
 
 </resources>
