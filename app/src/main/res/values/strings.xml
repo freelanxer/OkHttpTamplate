@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">OkHttpTemplate</string>
     <string name="app_description">This is OkHttp template</string>
+    <string name="api_service_url">https://mock.apifox.cn/m1/1769005-0-default/</string>
+
+    <string name="call_api_btn">Call API</string>
+
 </resources>
